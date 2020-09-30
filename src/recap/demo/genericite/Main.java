@@ -2,7 +2,6 @@ package recap.demo.genericite;
 
 import recap.demo.interfaces.Bateau;
 import recap.demo.interfaces.Navigant;
-import recap.demo.interfaces.Voiture;
 import recap.demo.interfaces.VoitureAmphibie;
 
 public class Main {

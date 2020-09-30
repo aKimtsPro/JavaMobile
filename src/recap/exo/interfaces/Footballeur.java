@@ -1,4 +1,4 @@
-package recap.exo;
+package recap.exo.interfaces;
 
 public class Footballeur extends Personne implements Joueur {
 

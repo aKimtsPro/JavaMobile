@@ -1,4 +1,4 @@
-package recap.exo;
+package recap.exo.interfaces;
 
 import java.util.ArrayList;
 import java.util.Arrays;

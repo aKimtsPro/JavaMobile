@@ -1,10 +1,9 @@
-package recap.exo;
+package recap.exo.genericite;
 
-public class Personne {
-
+public class Sportif {
     private String nom;
 
-    public Personne(String nom) {
+    public Sportif(String nom) {
         this.nom = nom;
     }
 
