@@ -1,3 +1,5 @@
+package recap.demo.interfaces;
+
 public class Voiture extends Vehicule {
 
     private String marque;

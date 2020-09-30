@@ -1,3 +1,5 @@
+package recap.demo.interfaces;
+
 public class Bateau extends Vehicule implements Navigant {
 
     private int longueur;

@@ -1,3 +1,5 @@
+package recap.demo.interfaces;
+
 public class Vehicule {
 
     private int puissance;

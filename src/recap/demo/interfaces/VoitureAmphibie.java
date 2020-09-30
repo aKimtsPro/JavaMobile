@@ -1,3 +1,5 @@
+package recap.demo.interfaces;
+
 public class VoitureAmphibie extends Voiture implements Navigant {
 
     public int poid;
