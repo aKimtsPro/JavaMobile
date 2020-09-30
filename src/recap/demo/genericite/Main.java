@@ -8,7 +8,7 @@ import recap.demo.interfaces.VoitureAmphibie;
 public class Main {
 
     public static void main(String[] args) {
-        Boite<Navigant> b = new Boite();
+        Boite<Navigant> b = new Boite<>();
         b.setContenu( new Bateau() );
         b.setContenu( new VoitureAmphibie() );
     }
