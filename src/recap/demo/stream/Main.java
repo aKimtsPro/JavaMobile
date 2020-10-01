@@ -19,6 +19,8 @@ public class Main {
         compet.getParticipants().add( new CoureurF1("luc", "pouetMachine") );
         compet.getParticipants().add( new CoureurF1("marie", "vroomMobile") );
 
+        // Methodes intermediaires
+
         // Filter
 
         List<CoureurF1> coureurPertinants = compet.getParticipants()
