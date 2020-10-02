@@ -1,9 +1,8 @@
-package recap.demo.threads;
+package nouveau.threads.demo;
 
 public class IncrementRunnable implements Runnable{
 
     private int ressourcePartagee = 0;
-    private final Object _key = new Object();
 
     public int getRessourcePartagee() {
         return ressourcePartagee;
@@ -17,16 +16,10 @@ public class IncrementRunnable implements Runnable{
         ressourcePartagee++;
     }
 
-    public void run2(){
-        for (int i = 0; i < 10000; i++) {
-            increment();
-        }
-    }
-
     @Override
     public void run() {
         for (int i = 0; i < 10000; i++) {
-            synchronized ( _key ){
+            synchronized ( this ){
                 ressourcePartagee++;
             }
         }

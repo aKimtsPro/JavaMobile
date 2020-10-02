@@ -1,4 +1,4 @@
-package recap.demo.jdbc.model;
+package nouveau.jdbc.exo.model;
 
 import java.util.Date;
 

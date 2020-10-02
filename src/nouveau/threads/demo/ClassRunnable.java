@@ -1,4 +1,4 @@
-package recap.demo.threads;
+package nouveau.threads.demo;
 
 public class ClassRunnable implements Runnable {
 

@@ -1,7 +1,6 @@
-package recap.demo.jdbc;
+package nouveau.jdbc.exo;
 
-import com.mysql.cj.PreparedQuery;
-import recap.demo.jdbc.model.Student;
+import nouveau.jdbc.exo.model.Student;
 
 import java.sql.*;
 import java.util.ArrayList;

@@ -1,6 +1,6 @@
-package recap.demo.jdbc;
+package nouveau.jdbc.exo;
 
-import recap.demo.jdbc.model.Student;
+import nouveau.jdbc.exo.model.Student;
 
 import java.util.List;
 

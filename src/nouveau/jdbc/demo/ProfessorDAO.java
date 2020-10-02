@@ -1,4 +1,4 @@
-package recap.demo.jdbc;
+package nouveau.jdbc.demo;
 
 import java.sql.*;
 

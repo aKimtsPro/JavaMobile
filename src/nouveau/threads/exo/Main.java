@@ -1,4 +1,4 @@
-package recap.demo.threads.exo;
+package nouveau.threads.exo;
 
 public class Main {
 
